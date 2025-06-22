@@ -1,0 +1,39 @@
+
+Bienvenido al registro de puntajes en la primera ronda de la competencia deportiva.
+En una escala de 1 a 10 ingrese el puntaje del Participante 1: 8
+Bienvenido al registro de puntajes en la primera ronda de la competencia deportiva.
+En una escala de 1 a 10 ingrese el puntaje del Participante 2: 7
+Bienvenido al registro de puntajes en la primera ronda de la competencia deportiva.
+En una escala de 1 a 10 ingrese el puntaje del Participante 3: 9
+Bienvenido al registro de puntajes en la primera ronda de la competencia deportiva.
+En una escala de 1 a 10 ingrese el puntaje del Participante 4: 10
+Bienvenido al registro de puntajes en la primera ronda de la competencia deportiva.
+En una escala de 1 a 10 ingrese el puntaje del Participante 5: 8
+Bienvenido al registro de puntajes en la primera ronda de la competencia deportiva.
+En una escala de 1 a 10 ingrese el puntaje del Participante 6: 6
+Bienvenido al registro de puntajes en la primera ronda de la competencia deportiva.
+En una escala de 1 a 10 ingrese el puntaje del Participante 7: 5
+Bienvenido al registro de puntajes en la primera ronda de la competencia deportiva.
+En una escala de 1 a 10 ingrese el puntaje del Participante 8: 4
+
+Puntajes reorganizados:
+Participante 8: 4
+Participante 7: 5
+Participante 6: 6
+Participante 5: 8
+Participante 4: 10
+Participante 3: 9
+Participante 2: 7
+Participante 1: 8
+
+Este es el orden de los participantes según sus puntajes ordenados de mayor a menor:
+Puntaje N° 1: 10 (Participante 4)
+Puntaje N° 2: 9 (Participante 3)
+Puntaje N° 3: 8 (Participante 5)
+Puntaje N° 4: 8 (Participante 1)
+Puntaje N° 5: 7 (Participante 2)
+Puntaje N° 6: 6 (Participante 6)
+Puntaje N° 7: 5 (Participante 7)
+Puntaje N° 8: 4 (Participante 8)
+
+Gracias por participar en la competencia deportiva. ¡Hasta la próxima!

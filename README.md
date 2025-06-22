@@ -17,15 +17,33 @@
 - De acuerdo a instrucciones asociadas al promedio de notas, asistencia y pago de matricula, se evalua ingreso de estudiantes.
 - Se aplico a dos casos para ver los dos tipos de resultado:
 
-    <img src="./modulo_dos/src/inscripcion_universidad/estudiante_no_cumple.jpg" alt="" style="width: 40%;"> <img src="./modulo_dos/src/inscripcion_universidad/estudiante_no_cumple_2.jpg" alt="" style="width: 40%;"> 
-    <img src="./modulo_dos/src/inscripcion_universidad/estudiante_si_cumple.jpg" alt="" style="width: 40%;">
+<img src="./modulo_dos/src/inscripcion_universidad/estudiante_no_cumple.jpg" alt="" style="width: 40%;"> <img src="./modulo_dos/src/inscripcion_universidad/estudiante_no_cumple_2.jpg" alt="" style="width: 40%;"> 
+<img src="./modulo_dos/src/inscripcion_universidad/estudiante_si_cumple.jpg" alt="" style="width: 40%;">
 
 
 **<h2>Expresiones lógicas</h2>**
-- 
+- Revisión de expresiones lógicas como booleanos
+
 <img src="./modulo_dos/src/expresiones_logicas/booleanosTrueFalse.jpg" alt="" style="width: 40%;">
 
 
 **<h2>Promedio notas</h2>**
--
+- Ingreso la cantidad de estudiantes y luego completo los campos.
+- Entrega lista con elementos ingresados y promedio de notas.
+
 <img src="./modulo_dos/src/promedio_notas/promedio_notas.jpg" alt="" style="width: 40%;">
+
+
+**<h2>Puntaje obtenido en competencia deportiva</h2>**
+- Se deben ingresar los puntajes de 8 competidores.
+- Como resultado se obtiene el orden inverso al ingreso y el orden de la nota más alta a la más baja.
+
+<img src="./modulo_dos/src/puntajes_invertidos_estudiantes/puntajes_invertidos_estudiantes_y_mayor_a_menor.jpg" alt="" style="width: 40%;">
+
+
+**<h2>Registro de donaciones</h2>**
+- Se selecciona una causa para realizar la donación, que seguira en bucle hasta ingresar la palabra FINALIZAR.
+- Pide ingresar el nombre de la causa que aunque está escrito con mayúscula, el código incluye toUpperCase() por lo que no afecta el como se escribe.
+- Una vez que se ingresa **finalizar** se suma lo ingresado a cada causa y el total. 
+
+<img src="./modulo_dos/src/registro_donaciones/registro_donaciones.jpg" alt="" style="width: 40%;">
