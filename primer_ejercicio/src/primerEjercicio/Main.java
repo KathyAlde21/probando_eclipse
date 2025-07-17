@@ -1,4 +1,4 @@
-package moduloDos;
+package primerEjercicio;
 
 public class Main {
 
